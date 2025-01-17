@@ -3,7 +3,7 @@ TopoFaker is a novel topology obfuscation system to counter tomography-based top
 
 ## 1. System Environment
 - Java
-  - Windows 10, IDEA 2019.3.4, JDK 11
+  - Windows 11, IDEA 2019.3.4, JDK 11
 - Python & ns-3
   - Ubuntu 16.0, Python 3.9.1, ns 3.29
 
